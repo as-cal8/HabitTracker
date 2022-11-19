@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="connect">Connect</string>
+    <string name="refresh">Refresh</string>
+    <string name="current_winstreak">Current Streak</string>
+    <string name="longest_winstreak">Longest Streak</string>
+</resources>
