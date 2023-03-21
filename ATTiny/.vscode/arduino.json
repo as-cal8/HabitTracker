@@ -1,0 +1,7 @@
+{
+    "board": "digistump:avr:digispark-tiny",
+    "port": "COM3",
+    "sketch": "AttinyHT\\AttinyHT.ino",
+    "output": "../ArduinoOutput",
+    "programmer": "micronucleusprog"
+}
